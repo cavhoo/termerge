@@ -1,0 +1,12 @@
+[package]
+name = "tui-gitlab-mr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anathema = { git = "https://github.com/togglebyte/anathema/" }
+gitlab = "0.1703.0"
+reqwest = "0.12.7"
+serde = "1.0.209"
+tokio = "1.40.0"
+toml = "0.8.19"

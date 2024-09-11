@@ -1,0 +1,4 @@
+[server]
+url="<YOUR REPO URL>"
+token="<YOUR API TOKEN>"
+repo_type="Server Type"

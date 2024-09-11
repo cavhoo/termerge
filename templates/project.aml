@@ -1,0 +1,4 @@
+border [border_style: "╭─╮│╯─╰│", width: 50, height: 3 ]
+	position [top: 0, left: 2, placement: "relative"]
+			text "{ Active Project }"
+	text current_project

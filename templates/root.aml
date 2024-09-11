@@ -1,0 +1,7 @@
+align [alignment: "top left"]
+			vstack
+					@project_list
+					if current_project != ""
+						 @project
+					if current_project != ""
+						 @merge_requests

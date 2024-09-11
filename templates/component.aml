@@ -1,0 +1,5 @@
+align [alignment: "left"]
+			border
+					column
+							text title
+							text author

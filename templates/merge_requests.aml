@@ -1,0 +1,6 @@
+border [border_style: "╭─╮│╯─╰│",width: 50, height: 15 ]
+	position [top: 0, left: 2, placement: "relative"]
+			text "{ Merge Requests }"
+	vstack
+		for merge_request in merge_requests
+	 		text merge_request.title
